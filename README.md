@@ -14,8 +14,11 @@ I decided to join Masai school's 30+ weeks, 700+ hours intense backend program a
 
 ## My Skills
 Python
+
 Flask
+
 MySQL
+
 Data Structures and Algorithms
 
 ## Contact Me
